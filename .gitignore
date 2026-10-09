@@ -1,0 +1,8 @@
+.env
+auth.json
+config.yaml
+credentials/
+*.db
+cache/
+sessions/
+logs/
